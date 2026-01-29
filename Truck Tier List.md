@@ -1,3 +1,15 @@
+# Truck Rankings
+
+**Sources:** 
+- [Comprehensive Truck Tier List Video](https://www.youtube.com/watch?v=mYBDvc8lT6g) - Offroad truck tier rankings
+- [Best Trucks in SnowRunner (2025)](https://www.youtube.com/watch?v=IFselo29h1k) - Best/worst trucks by class
+
+**Related Resources:**
+- [Truck Classes](Truck%20Classes.md) - Comprehensive guide to all 5 truck classes with best/worst trucks for 2025
+- [The Forgotten Classes of SnowRunner](https://www.youtube.com/watch?v=9eNBEAvsu3w) - Deep dive into Highway and Heavy-Duty truck classes
+
+---
+
 # Offroad Trucks
 
 **Source:** [Comprehensive Truck Tier List Video](https://www.youtube.com/watch?v=mYBDvc8lT6g)
