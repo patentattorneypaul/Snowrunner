@@ -1,3 +1,5 @@
+# A listing of all Snowrunner regions including rank, summary, and trucks unlocked.
+
  - Michigan: **S+ Tier** ([0:26](https://youtu.be/sIRnMSLeUnI?t=26))
 	 - **Reason for Rank:** The speaker considers it the perfect region because it's not too difficult, possesses unique character, and its maps are designed to avoid boredom. He also appreciates that contracts don't demand excessive cargo deliveries, and it features many valuable trucks ([0:30](https://youtu.be/sIRnMSLeUnI?t=30)-[1:25](https://youtu.be/sIRnMSLeUnI?t=85)).
 	 - **Summary:** As the game's initial region, Michigan offers a balanced challenge and engaging maps that remain interesting. Missions are well-paced, requiring fewer large cargo deliveries.
