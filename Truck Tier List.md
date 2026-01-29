@@ -1274,3 +1274,14 @@ The tier list reflects a comprehensive evaluation of each truck's versatility, p
 ## Scout Summary & Key Insights
 
 Scout vehicles offer diverse playstyles ranging from lightweight, speedy scouts to heavy, multi-tool recovery vehicles. The S-tier scouts (Earthroamer LTi & SX, Burlak 6x6, and TUZ 420 "Tatarin") represent the pinnacle of scout capability, each excelling in different aspects. A-tier scouts like the Hummer H2 and Khan 39 Marshall provide solid all-around performance with good versatility. B-tier vehicles are functional but have specific drawbacks that limit their utility, while C-tier scouts are suitable only for players with significant skill and patience.
+---
+
+# Off-Road Trucks
+
+---
+
+# Heavy Trucks
+
+---
+
+# Highway Trucks
